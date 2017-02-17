@@ -8,5 +8,8 @@ urls.py
 celeryd@*
 doc_rst/
 static/rest_framework/
+static/admin
+static/tiny_mce
+static/django_tinymce
 
 *.swp
